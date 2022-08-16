@@ -11,32 +11,26 @@ body {
     display: flex;
     flex-direction: column;
     color: white;
-    gap: 10px;
+    gap: 30px;
     align-content: space-between;
     width: 100%;
 }
 
 .div-header {
     display: inline-block;
-   width: 100%;
+     width: 100%;
     background-image: url(/public/image3.png);
     background-position: center;
     background-size: cover;
   
 }
 
-.img {
-    height: 200px;
-
-
-
-}
 
 .div-img {
     margin: 0 auto;
-
     justify-content: center;
     text-align: center;
+
 }
 
 
