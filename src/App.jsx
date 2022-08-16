@@ -44,7 +44,7 @@ const handleSubmit = e => {
     <div className="App">
       <div className='div-header'>
    <div className='div-img'>
-    <img className='img' src="\public\image 2.png" alt="" />
+    <img className='img' src="/public/image2" alt="" />
    </div>
    <form className='form' onSubmit={handleSubmit} autoComplete='off'>
     <input className='input' id='search' type="text" placeholder='type a location id'/>
