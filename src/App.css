@@ -19,14 +19,14 @@ body {
 
 .div-header {
     display: inline-block;
-     width: 100%;
+     width:0 auto;
     background-image: url(/public/image3.png);
     background-position: center;
     background-size: cover;
   
 }
 .img {
-    width: 100%;
+    width: 0 auto;
 }
 
 
@@ -175,11 +175,12 @@ body {
         background-image: url(/public/image3.png);
         background-position: center;
         background-size: cover;
-        width: 100%;
+        margin: 0 auto;
+       
     }
     .img {
         width: 70%;
-        height: 70%;
+        height: 80%;
     }
     .button {
         border: 2px;
