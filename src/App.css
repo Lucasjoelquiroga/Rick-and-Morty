@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(41, 36, 36);
+    background-color: rgb(53, 44, 44);
     width: 100vw;
     height: 100vh;
     padding: 0;
@@ -314,6 +314,9 @@ body {
             font-size: 14px;
         }
     }
+       
+
+
     @media screen and (min-width:560px) and (max-width:760px) {
         .ul-location {
             width: 545px;
@@ -398,9 +401,6 @@ body {
     
         }
     }
-       
-
-
       
 
 

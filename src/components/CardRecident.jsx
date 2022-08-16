@@ -19,7 +19,7 @@ const CardRecident = ({url}) => {
             <span>{resident?.status}</span>
             </div>
         </header>
-        <div className='card-contenido'>
+        <div className='card-contents'>
             <h2 className='card-name'>{resident?.name}</h2>
             <hr />
             <ul className='card-atributo'>
