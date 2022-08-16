@@ -18,11 +18,11 @@ body {
 
 .div-header {
     display: inline-block;
-    width: 0 auto;
+   width: 100%;
     background-image: url(/public/image3.png);
     background-position: center;
     background-size: cover;
-
+  
 }
 
 .img {
@@ -174,7 +174,7 @@ body {
 
     .div-header {
         display: inline-block;
-        background-image: url(/public/image\ 3.png);
+        background-image: url(/public/image3.png);
         background-position: center;
         background-size: cover;
         width: 100%;
@@ -232,7 +232,7 @@ body {
     
         .div-header {
             display: inline-block;
-            background-image: url(/public/image\ 3.png);
+            background-image: url(/public/image3.png);
             background-position: center;
             background-size: cover;
             width: 100%;
@@ -318,6 +318,17 @@ body {
 
 
     @media screen and (min-width:560px) and (max-width:760px) {
+        .div-header {
+            display: inline-block;
+           width: 100%;
+            background-image: url(/public/image3.png);
+            background-position: center;
+            background-size: cover;
+            
+        }
+        
+        
+        
         .ul-location {
             width: 545px;
             height: 50px;
@@ -344,13 +355,13 @@ body {
             width: 50%;
         }
     
-        .div-img {
-    
-            background-image: url(/public/image\ 3.png);
+        .div-header {
+            display: inline-block;
+           width: 100%;
+            background-image: url(/public/image3.png);
             background-position: center;
             background-size: cover;
-            justify-content: center;
-            text-align: center;
+           
         }
     
         .header-location {
